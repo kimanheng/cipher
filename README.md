@@ -1,2 +1,2 @@
 # cipher
-Various cryptography algorithms throughout history
+Various cryptography algorithms
